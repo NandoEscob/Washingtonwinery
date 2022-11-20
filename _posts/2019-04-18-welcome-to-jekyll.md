@@ -1,29 +1,106 @@
 ---
-title: "Welcome to Jekyll!"
+title: "Welcome to Wineries in WA!"
 date: 2019-04-18T15:34:30-04:00
 categories:
   - blog
 tags:
-  - Jekyll
-  - update
+
 ---
 
-You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+We have reasearch and listed 5 entries of local wineries per location. To know more information, click on each winery. It contains basic information but also if you want to know more, click on the winery of your choosing to direct you to their site. 
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+## 5 Wineries located in Woodinville WA
 
-Jekyll also offers powerful support for code snippets:
+Columbia Winery
 
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
+* 14030 NE 145th St, Woodinville, WA 98072
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+* (425) 482-7490
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Novelty Hill-januik winery
+
+* 14710 Redmond - Woodinville Rd NE, Woodinville, WA 98072
+
+* (425) 481-5502
+
+Jm cellars
+
+* 14404 137th Pl NE, Woodinville, WA 98072
+
+* (425) 485-6508
+
+DeLille Cellars Tasting Room
+
+* 14300 NE 145th St Suite 101, Woodinville, WA 98072
+
+* (425) 489-0544
+
+Avennia Tasting Room
+
+* 19255 Woodinville Snohomish Rd #1, Woodinville, WA 98072
+
+* (425) 482-4364
+
+## 5 Wineries located in Seattle WA
+Champion Wine Cellars
+
+* 8515 Greenwood Ave N, Seattle, WA 98103
+
+* (206) 284-8306
+
+Almquist Winery
+
+* 198 Nickerson St, Seattle, WA 98109
+
+* (206) 953-2962
+
+Rotie Cellars
+
+* 3861 1st Ave S Suite F, Seattle, WA 98134
+
+* (206) 359-0905
+
+Nine Hats Wine
+
+* 3861 1st Ave S, Seattle, WA 98134
+
+* (206) 582-0700
+
+Eight Bells Winery
+
+* 6213 Roosevelt Way NE ste b, Seattle, WA 98115
+
+(206) 294-4131
+
+## 5 Wineries located in Walla Walla WA
+
+Foundry Vineyards
+
+* 1111 Abadie St, Walla Walla, WA 99362
+
+* (509) 529-0736
+
+Seven Hills Winery
+
+* 212 N 3rd Ave, Walla Walla, WA 99362
+
+(509) 529-7198
+
+El Corazon Winery
+
+* 37 S Palouse St, Walla Walla, WA 99362
+
+* (509) 520-4408
+
+Gard Vintners
+
+* 43 E Main St, Walla Walla, WA 99362
+
+* (509) 524-9099
+
+The Walls Vineyards
+
+* 1015 W Pine St, Walla Walla, WA 99362
+
+* (509) 876-0200
+
