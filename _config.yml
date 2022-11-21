@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Wineries in WA"
-  avatar : "https://github.com/NandoEscob/Washingtonwinery/blob/master/Oh-look-its-wine-o-clock-1.jpg"
+  avatar : "master/Oh-look-its-wine-o-clock-1.jpg"
   bio    : "## Objective to Project to showcase diversity sites of **wineries** around Washington state. To develop local culture and build up community resources"
   links:
     - label: "Website"
