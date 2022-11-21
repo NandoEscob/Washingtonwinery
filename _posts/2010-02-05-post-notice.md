@@ -1,5 +1,5 @@
 ---
-title: "Post: Notice"
+title: "Seattle"
 categories:
   - Blog
 tags:
@@ -7,62 +7,36 @@ tags:
   - notice
 ---
 
-A notice displays information that explains nearby content. Often used to call attention to a particular detail.
+# 5 Wineries located in Seattle WA
+ 
+[Champion Wine Cellars](https://www.championwinecellars.com/collections/seattle-delivery-pick-up?gclid=Cj0KCQiA1NebBhDDARIsAANiDD3GgRRyXVygATI5jTVoBxHjbaGiT8OTmjGE1-GX4CvtnWzHpt07BDsaAr6tEALw_wcB)
 
-When using Kramdown `{: .notice}` can be added after a sentence to assign the `.notice` to the `<p></p>` element. 
 
-**Changes in Service:** We just updated our [privacy policy](#) here to better service our customers. We recommend reviewing the changes.
-{: .notice}
 
-**Primary Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. [Praesent libero](#). Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
-{: .notice--primary}
+* 8515 Greenwood Ave N, Seattle, WA 98103
 
-**Info Notice:** Lorem ipsum dolor sit amet, [consectetur adipiscing elit](#). Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
-{: .notice--info}
+* (206) 284-8306
 
-**Warning Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. [Integer nec odio](#). Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
-{: .notice--warning}
+[Almquist Winery](http://www.almquistfamily.com/)
 
-**Danger Notice:** Lorem ipsum dolor sit amet, [consectetur adipiscing](#) elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
-{: .notice--danger}
+* 198 Nickerson St, Seattle, WA 98109
 
-**Success Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at [nibh elementum](#) imperdiet.
-{: .notice--success}
+* (206) 953-2962
 
-Want to wrap several paragraphs or other elements in a notice? Using Liquid to capture the content and then filter it with `markdownify` is a good way to go.
+[Rotie Cellars](https://www.rotiecellars.com/)
 
-```html
-{% raw %}{% capture notice-2 %}
-#### New Site Features
+* 3861 1st Ave S Suite F, Seattle, WA 98134
 
-* You can now have cover images on blog pages
-* Drafts will now auto-save while writing
-{% endcapture %}{% endraw %}
+* (206) 359-0905
 
-<div class="notice">{% raw %}{{ notice-2 | markdownify }}{% endraw %}</div>
-```
+[Nine Hats Wine](https://ninehatswines.com)
 
-{% capture notice-2 %}
-#### New Site Features
+* 3861 1st Ave S, Seattle, WA 98134
 
-* You can now have cover images on blog pages
-* Drafts will now auto-save while writing
-{% endcapture %}
+* (206) 582-0700
 
-<div class="notice">
-  {{ notice-2 | markdownify }}
-</div>
+[Eight Bells Winery](https://www.8bellswinery.com/)
 
-Or you could skip the capture and stick with straight HTML.
+* 6213 Roosevelt Way NE ste b, Seattle, WA 98115
 
-```html
-<div class="notice">
-  <h4>Message</h4>
-  <p>A basic message.</p>
-</div>
-```
-
-<div class="notice">
-  <h4>Message</h4>
-  <p>A basic message.</p>
-</div>
+* (206) 294-4131
