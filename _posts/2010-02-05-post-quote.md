@@ -1,5 +1,5 @@
 ---
-title: "Post: Walla Walla"
+title: "Walla Walla"
 categories:
   - Blog
 tags:
